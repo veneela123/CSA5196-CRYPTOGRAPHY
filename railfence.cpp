@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-
 void encryptRailFence(char* message, int rails) 
 {
     int messageLength = strlen(message);
